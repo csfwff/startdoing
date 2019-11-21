@@ -5,7 +5,7 @@
  2. yarn start
 
 ## 预览
-在线预览--> https://sszsj.cc:444/other/startdoing/index.html
+在线预览--> https://www.sszsj.top/pages/startdoing/index.html
 
 ![2](https://raw.githubusercontent.com/csfwff/startdoing/master/screenshot/1.gif)    ![3](https://raw.githubusercontent.com/csfwff/startdoing/master/screenshot/2.gif) 
 ![4](https://raw.githubusercontent.com/csfwff/startdoing/master/screenshot/3.gif)  ![5](https://raw.githubusercontent.com/csfwff/startdoing/master/screenshot/4.gif)
